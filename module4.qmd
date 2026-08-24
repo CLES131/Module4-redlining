@@ -1,5 +1,5 @@
 ---
-title: "Module 3: Redlining"
+title: "Module 4: Redlining"
 format: pdf
 editor: source
 editor_options: 
