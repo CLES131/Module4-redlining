@@ -1,4 +1,4 @@
-# Module 3: Redlining
+# Module 4: Redlining
 
 ## Team members and contributions
 To be updated
